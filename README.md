@@ -2,7 +2,7 @@
 
 #### I'm a Full Stack Developer (Digital Nomad):
 
-<a href="https://github.com/Durgaprasad-Budhwani"><img align="right" alt="Durgaprasad's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Durgaprasad-Budhwani&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=graywhite" /></a>
+<a href="https://github.com/Durgaprasad-Budhwani"><img align="right" alt="Durgaprasad's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Durgaprasad-Budhwani&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
 
 
 - 🏢 I'm currently working at [**Tech9**](https://tech9.com/)
