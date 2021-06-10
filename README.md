@@ -10,6 +10,5 @@
 - 📫 Reach me @ [Linkedin](https://www.linkedin.com/in/Durgaprasad-Budhwani/)
 - ⚡ Fun fact: I'm a huge fan of Avengers(Solo Hulk).
 
-[![HitCount](http://hits.dwyl.com/durgaprasad-budhwani/{project}.svg)](http://hits.dwyl.com/durgaprasad-budhwani/{project})
 
 <a href="https://github.com/Durgaprasad-Budhwani"><img align="left" alt="Durgaprasad's Github Stats" src="https://github-readme-stats.vercel.app/api?username=durgaprasad-budhwani&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical"  /></a>
