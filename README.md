@@ -3,7 +3,7 @@
 #### I'm a Full Stack Developer (Digital Nomad):
 
 - 🏢 I'm currently working at [**Tech9**](https://tech9.com/)
-- ⚙️ I use daily: `.js`, `react`, `.graphql`, `.ts`, `next`, `.html`, `.css`, `.svg`, `AWS`, `react-native`, `go`, `aws`
+- ⚙️ I use daily: `.js`, `react`, `.graphql`, `.ts`, `next`, `.html`, `.css`, `.svg`, `AWS`, `react-native`, `go`, `serverless`
   , `alexa skills`
 - 👯 I’m looking to collaborate on **Open source projects(JS || React)**
 - 📫 Reach me @ [Linkedin](https://www.linkedin.com/in/Durgaprasad-Budhwani/)
