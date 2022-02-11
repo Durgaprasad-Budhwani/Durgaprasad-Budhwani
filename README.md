@@ -5,7 +5,7 @@
 - 🏢 I'm currently working at [**Tech9**](https://tech9.com/)
 - ⚙️ I use daily: `.js`, `react`, `.graphql`, `.ts`, `next`, `.html`, `.css`, `.svg`, `AWS`, `react-native`, `go`, `serverless`
   , `alexa skills`
-- 👯 I’m looking to collaborate on **Open source projects(JS || React)**
+- 👯 I’m looking to collaborate on **Open source projects(JS || React || Golang || Serverless || Web Audio API)**
 - 📫 Reach me @ [Linkedin](https://www.linkedin.com/in/Durgaprasad-Budhwani/)
 - ⚡ Fun fact: I'm a huge fan of Avengers(Solo Hulk).
 - I'm [**YouTuber**](https://www.youtube.com/channel/UCQqzk4nb_oVDkhnWp4miUHw) and [**Udemy Instructor**](https://www.udemy.com/user/durgaprasad-budhwani/)
