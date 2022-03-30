@@ -3,12 +3,10 @@
 #### I'm a Full Stack Developer (Digital Nomad):
 
 - 🏢 I'm currently working at [**Tech9**](https://tech9.com/)
-- ⚙️ I use daily: `.js`, `react`, `.graphql`, `.ts`, `next`, `.html`, `.css`, `.svg`, `AWS`, `react-native`, `go`, `serverless`
-  , `alexa skills`
-- 👯 I’m looking to collaborate on **Open source projects(JS || React || Golang || Serverless || Web Audio API)**
+- ⚙️ I use daily: `rust`, `golang`, `serverless`, `AWS/Azure cloud`, `dotnet`, `IaC`, `Scalable Application` `.js`, `react`, `.graphql`, `.ts`, `next`
+- 👯 I’m looking to collaborate on **Open source projects( JS || React || Golang || Serverless || Web Audio API || Rust || Web Asembly)**
 - 📫 Reach me @ [Linkedin](https://www.linkedin.com/in/Durgaprasad-Budhwani/)
-- ⚡ Fun fact: I'm a huge fan of Avengers(Solo Hulk).
-- I'm [**YouTuber**](https://www.youtube.com/channel/UCQqzk4nb_oVDkhnWp4miUHw) and [**Udemy Instructor**](https://www.udemy.com/user/durgaprasad-budhwani/)---
+- I'm [**YouTuber**](https://www.youtube.com/channel/UCQqzk4nb_oVDkhnWp4miUHw) and [**Udemy Instructor**](https://www.udemy.com/user/durgaprasad-budhwani/)
 
 ------
 
