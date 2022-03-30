@@ -18,3 +18,9 @@
 ------
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Durgaprasad-Budhwani)](https://github.com/Durgaprasad-Budhwani/github-profile-trophy)
+
+|---|---|
+
+------
+
+| <a href="https://github.com/durgaprasad-budhwani"><img align="left" alt="Durga's Stats" src="https://github-readme-stats.vercel.app/api?username=durgaprasad-budhwani&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dark" /></a> | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=durgaprasad-budhwani&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) |
