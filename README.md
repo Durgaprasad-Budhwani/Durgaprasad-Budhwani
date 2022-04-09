@@ -23,17 +23,14 @@
     <img alt="AZURE" src="https://img.shields.io/badge/-azure-aqua?style=for-the-badge"/>
     <img alt="GCP" src="https://img.shields.io/badge/-gcp-plum?style=for-the-badge"/>
     <img alt="Serverless" src="https://img.shields.io/badge/-serverless-purple?style=for-the-badge"/>
-    <img alt="Serverless" src="https://img.shields.io/badge/-dotnet-royalblue?style=for-the-badge"/>
-    <img alt="Serverless" src="https://img.shields.io/badge/-iac-lightgreen?style=for-the-badge"/>
-    <img alt="Serverless" src="https://img.shields.io/badge/-graphql-green?style=for-the-badge"/>
-    <img alt="Serverless" src="https://img.shields.io/badge/-kubernetes-olive?style=for-the-badge"/>
-    <img alt="Serverless" src="https://img.shields.io/badge/-microservices-teal?style=for-the-badge"/>
-    <img alt="Serverless" src="https://img.shields.io/badge/-webrtc-indigo?style=for-the-badge"/>
-    <img alt="Serverless" src="https://img.shields.io/badge/-lambda-turquoise?style=for-the-badge"/>
-    <img alt="Serverless" src="https://img.shields.io/badge/-webassembly-skyblue?style=for-the-badge"/>
-    <img alt="KUBERNETES" src="https://img.shields.io/badge/html5-%23fca9ae.svg?style=for-the-badge&logo=kubernetes&logoColor=140200"/>
-    <img alt="Serverless" src="https://img.shields.io/badge/html5-%23fca9ae.svg?style=for-the-badge&logo=Serverless&logoColor=140200"/>
-    <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23e4626b.svg?style=for-the-badge&logo=solidity&logoColor=%23F7DF1E"/>
+    <img alt="Dotnet" src="https://img.shields.io/badge/-dotnet-royalblue?style=for-the-badge"/>
+    <img alt="Infrastructure as a code" src="https://img.shields.io/badge/-iac-lightgreen?style=for-the-badge"/>
+    <img alt="Graphql" src="https://img.shields.io/badge/-graphql-green?style=for-the-badge"/>
+    <img alt="Kubernetes" src="https://img.shields.io/badge/-kubernetes-olive?style=for-the-badge"/>
+    <img alt="Microservices" src="https://img.shields.io/badge/-microservices-teal?style=for-the-badge"/>
+    <img alt="WebRtc" src="https://img.shields.io/badge/-webrtc-indigo?style=for-the-badge"/>
+    <img alt="Lambda" src="https://img.shields.io/badge/-lambda-turquoise?style=for-the-badge"/>
+    <img alt="Web Assembly" src="https://img.shields.io/badge/-webassembly-skyblue?style=for-the-badge"/>
     <img alt="HTML5" src="https://img.shields.io/badge/html5-%23fca9ae.svg?style=for-the-badge&logo=html5&logoColor=140200"/>
     <img alt="CSS3" src="https://img.shields.io/badge/css3-%23ffd2ce.svg?style=for-the-badge&logo=css3&logoColor=140200"/>
     <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23e4626b.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
