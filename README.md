@@ -11,8 +11,6 @@
 
 <img src="https://user-images.githubusercontent.com/993962/162679505-bb93c35d-6d2d-435d-b204-de1ad38c8924.gif" width="250" />
 
-<h3 align="left">Connect with me:</h3>
-
 <h2> 🥞 Tech Stack</h2>
 <p align="center">
     <img alt="BLOCKCHAIN" src="https://img.shields.io/badge/-blockchain-blue?style=for-the-badge&logo=ethereum"/>
