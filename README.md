@@ -12,21 +12,21 @@
 
 <h2> 🥞 Tech Stack</h2>
 <p align="center">
-    <img alt="BLOCKCHAIN" src="https://img.shields.io/badge/-blockchain-blue?style=for-the-badge"/>
-    <img alt="SOLIDITY" src="https://img.shields.io/badge/-solidity-salmon?style=for-the-badge"/>
-    <img alt="ETHEREUM" src="https://img.shields.io/badge/-ethereum-coral?style=for-the-badge"/>
+    <img alt="BLOCKCHAIN" src="https://img.shields.io/badge/-blockchain-blue?style=for-the-badge&logo=ethereum"/>
+    <img alt="SOLIDITY" src="https://img.shields.io/badge/-solidity-salmon?style=for-the-badge&logo=solidity"/>
+    <img alt="ETHEREUM" src="https://img.shields.io/badge/-ethereum-coral?style=for-the-badge&logo=ethereum"/>
     <img alt="WEB3" src="https://img.shields.io/badge/-web3-tomato?style=for-the-badge"/>
-    <img alt="RUST" src="https://img.shields.io/badge/-rust-gold?style=for-the-badge"/>
-    <img alt="GOLANG" src="https://img.shields.io/badge/-golang-blue?style=for-the-badge"/>
+    <img alt="RUST" src="https://img.shields.io/badge/-rust-black?style=for-the-badge&logo=rust"/>
+    <img alt="GOLANG" src="https://img.shields.io/badge/-golang-white?style=for-the-badge&logo=go"/>
     <img alt="NODEJS" src="https://img.shields.io/badge/-nodejs-yellow?style=for-the-badge"/>
-    <img alt="AWS" src="https://img.shields.io/badge/-aws-orange?style=for-the-badge"/>
-    <img alt="AZURE" src="https://img.shields.io/badge/-azure-aqua?style=for-the-badge"/>
+    <img alt="AWS" src="https://img.shields.io/badge/-aws-pink?style=for-the-badge&logo=amazon"/>
+    <img alt="AZURE" src="https://img.shields.io/badge/-azure-olive?style=for-the-badge&logo=microsoft"/>
     <img alt="GCP" src="https://img.shields.io/badge/-gcp-plum?style=for-the-badge"/>
     <img alt="Serverless" src="https://img.shields.io/badge/-serverless-purple?style=for-the-badge"/>
     <img alt="Dotnet" src="https://img.shields.io/badge/-dotnet-royalblue?style=for-the-badge"/>
     <img alt="Infrastructure as a code" src="https://img.shields.io/badge/-iac-lightgreen?style=for-the-badge"/>
     <img alt="Graphql" src="https://img.shields.io/badge/-graphql-green?style=for-the-badge"/>
-    <img alt="Kubernetes" src="https://img.shields.io/badge/-kubernetes-olive?style=for-the-badge"/>
+    <img alt="Kubernetes" src="https://img.shields.io/badge/-kubernetes-whitesmoke?style=for-the-badge&logo=kubernetes&logoColor=140200"/>
     <img alt="Microservices" src="https://img.shields.io/badge/-microservices-teal?style=for-the-badge"/>
     <img alt="WebRtc" src="https://img.shields.io/badge/-webrtc-indigo?style=for-the-badge"/>
     <img alt="Lambda" src="https://img.shields.io/badge/-lambda-turquoise?style=for-the-badge"/>
