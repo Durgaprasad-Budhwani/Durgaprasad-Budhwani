@@ -45,6 +45,7 @@
 -----
 
 #### Certifications:
+- Certified Ethereum Developer
 - CKAD: Certified Kubernetes Application Developer
 - AWS Certified Solutions Architect – Professional
 - AWS Certified Developer – Associate
