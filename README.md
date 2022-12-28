@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on **Open source projects( Web3 || BlockChain || Solidy || Sonana || JS || React || Golang || Serverless || Web Audio API || Rust || Web Asembly)**
 - Currently learning: `BlockChain`, `Solidity`, `Solana`, `Web3`
 - 📫 Reach me @ [Linkedin](https://www.linkedin.com/in/Durgaprasad-Budhwani/)
-- I'm [**YouTuber**](https://www.youtube.com/channel/UCQqzk4nb_oVDkhnWp4miUHw) and [**Udemy Instructor**](https://www.udemy.com/user/durgaprasad-budhwani/)
+- I'm [**YouTuber**](https://www.youtube.com/channel/UCQqzk4nb_oVDkhnWp4miUHw), [**Udemy Instructor**](https://www.udemy.com/user/durgaprasad-budhwani/) and [**medium**](https://medium.com/@durgaprasadbudhwani)
 
 <img src="https://user-images.githubusercontent.com/993962/162679505-bb93c35d-6d2d-435d-b204-de1ad38c8924.gif" width="250" />
 
