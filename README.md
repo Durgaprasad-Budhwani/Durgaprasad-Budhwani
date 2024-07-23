@@ -2,7 +2,7 @@
 
 #### I'm a Full Stack Developer (Digital Nomad):
 
-- 🏢 I'm currently working at [**Tech9**](https://tech9.com/)
+- 🏢 I'm currently working at [**DCoderAI**](https://dcoder.ai/)
 - ⚙️ I use daily: `rust`, `golang`, `serverless`, `AWS/Azure cloud`, `dotnet`, `IaC`, `Scalable Application` `.js`, `react`, `.graphql`, `.ts`, `next`, `graphql`, `microservices`, `electron`, `Github Actions For CI/CD`, `AWS Lambda`, `Kubernetes` and `WebAssembly`
 - 👯 I’m looking to collaborate on **Open source projects( Web3 || BlockChain || Solidy || Sonana || JS || React || Golang || Serverless || Web Audio API || Rust || Web Asembly)**
 - Currently learning: `BlockChain`, `Solidity`, `Solana`, `Web3`
