@@ -8,6 +8,48 @@
 - 📫 Reach me @ [Linkedin](https://www.linkedin.com/in/Durgaprasad-Budhwani/)
 - I'm [**YouTuber**](https://www.youtube.com/channel/UCQqzk4nb_oVDkhnWp4miUHw), [**Udemy Instructor**](https://www.udemy.com/user/durgaprasad-budhwani/) and [**medium**](https://medium.com/@durgaprasadbudhwani)
 
+--------------
+
+My Products
+
+### smartEreply
+
+[smartEreply](https://smartereply.com) is an AI-powered assistant that streamlines responses across various platforms, including LinkedIn, Twitter, Reddit, WhatsApp, Telegram, Slack, Teams, Gmail, and Outlook. It simplifies messaging with one-click replies, enhancing productivity and ensuring consistent, professional communication. 
+
+### SmartMoso
+
+[SmartMoso](https://smartmoso.com) specializes in transforming digital presence through innovative strategies aimed at enhancing audience interaction and engagement. They offer creative solutions and impactful campaigns to help brands connect meaningfully with their audiences.
+
+### Orbic.ai
+
+[Orbic.ai](https://orbic.ai) serves as a comprehensive AI listing hub for developers, featuring AI tools, GPT Store apps, and AWS PartyRocks. With over 600,000 registered pages, it provides a vast resource for discovering and utilizing AI technologies.
+
+### SmartLeadMagnet.com
+
+[SmartLeadMagnet.com](https://smartleadmagent.com) is an open-source AI lead generation engine designed to streamline the process of identifying and engaging potential clients, enhancing marketing efficiency.
+
+### SmartLeadConnect.com (Comint Soon)
+
+[SmartLeadConnect.com](https://smartleadconnect.com) is a LinkedIn connection automation tool that allows users to send personalized bulk invitations organically, optimizing networking efforts while ensuring account safety.
+
+### SiteLifter.com (Coming Soon)
+
+[SiteLifter.com](https://sitelifter.com) offers AI-driven analysis to optimize website pages, providing actionable insights to improve design, messaging, and user flow, thereby maximizing conversions.
+
+### ScreenshotsAPI.dev (Beta Release)
+
+[ScreenshotsAPI.dev](https://screenshotsapi.dev) provides a high-quality screenshot generation service, allowing users to capture clean and professional screenshots with customizable options, including dark mode and ad removal.
+
+### ATSResumeChecker.com (Coming Soon)
+
+[ATSResumeChecker.com](https://atsresumechecker.com) is an AI-driven tool that matches resumes with job descriptions, providing actionable insights to optimize resumes for applicant tracking systems, thereby enhancing recruitment efficiency.
+
+### SocialInbox.ai (Coming Soon)
+
+[SocialInbox.ai](https://socialinbox.ai) simplifies customer communication by integrating messages from various platforms into a single inbox, enhancing efficiency and improving customer satisfaction through AI-driven insights.
+
+----------
+
 <img src="https://user-images.githubusercontent.com/993962/162679505-bb93c35d-6d2d-435d-b204-de1ad38c8924.gif" width="250" />
 
 <h2> 🥞 Tech Stack</h2>
