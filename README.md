@@ -26,7 +26,7 @@
 
 ### SmartLeadMagnet.com
 
-[SmartLeadMagnet.com](https://smartleadmagent.com) is an open-source AI lead generation engine designed to streamline the process of identifying and engaging potential clients, enhancing marketing efficiency.
+[SmartLeadMagnet](https://smartleadmagnet.com/) is an open-source AI lead generation engine designed to streamline the process of identifying and engaging potential clients, enhancing marketing efficiency.
 
 ### SmartLeadConnect.com (Comint Soon)
 
