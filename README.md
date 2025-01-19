@@ -32,11 +32,11 @@
 
 [SmartLeadConnect.com](https://smartleadconnect.com) is a LinkedIn connection automation tool that allows users to send personalized bulk invitations organically, optimizing networking efforts while ensuring account safety.
 
-### SiteLifter.com (Coming Soon)
+### SiteLifter.com
 
 [SiteLifter.com](https://sitelifter.com) offers AI-driven analysis to optimize website pages, providing actionable insights to improve design, messaging, and user flow, thereby maximizing conversions.
 
-### ScreenshotsAPI.dev (Beta Release)
+### ScreenshotsAPI.dev
 
 [ScreenshotsAPI.dev](https://screenshotsapi.dev) provides a high-quality screenshot generation service, allowing users to capture clean and professional screenshots with customizable options, including dark mode and ad removal.
 
