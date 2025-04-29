@@ -34,7 +34,7 @@
 
 ### Text and Speech
 
-[Text and Speech]([https://connectsafely.ai](https://textandspeech.dev)) is AI-powered audio cleaning technology instantly enhances your speech using the latest advancements in neural audio processing and machine learning to remove background noise, echo, and other distractions.
+[Text and Speech](https://textandspeech.dev)) is AI-powered audio cleaning technology instantly enhances your speech using the latest advancements in neural audio processing and machine learning to remove background noise, echo, and other distractions.
 
 ### SiteLifter.com
 
