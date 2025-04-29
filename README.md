@@ -28,9 +28,13 @@
 
 [SmartLeadMagnet](https://smartleadmagnet.com/) is an open-source AI lead generation engine designed to streamline the process of identifying and engaging potential clients, enhancing marketing efficiency.
 
-### ConnectSafely.AI (Launch Date: March 2025)
+### ConnectSafely.AI (Launch Date: May 2025)
 
 [ConnectSafely.AI](https://connectsafely.ai) is a LinkedIn connection automation tool that allows users to send personalized bulk invitations organically, optimizing networking efforts while ensuring account safety.
+
+### Text and Speech
+
+[Text and Speech]([https://connectsafely.ai](https://textandspeech.dev)) is AI-powered audio cleaning technology instantly enhances your speech using the latest advancements in neural audio processing and machine learning to remove background noise, echo, and other distractions.
 
 ### SiteLifter.com
 
@@ -44,7 +48,7 @@
 
 [ATSResumeChecker.com](https://atsresumechecker.com) is an AI-driven tool that matches resumes with job descriptions, providing actionable insights to optimize resumes for applicant tracking systems, thereby enhancing recruitment efficiency.
 
-### SocialInbox.ai (Launch Date: March 2025)
+### SocialInbox.ai (Launch Date: May 2025)
 
 [SocialInbox.ai](https://socialinbox.ai) simplifies customer communication by integrating messages from various platforms into a single inbox, enhancing efficiency and improving customer satisfaction through AI-driven insights.
 
